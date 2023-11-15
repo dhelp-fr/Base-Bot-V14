@@ -1,14 +1,16 @@
 ## ✨Template - Bot Discord V14 par Ifanoxy
 
-Voici un template de bot discord. Le bot a été réalisé en utilisant [nextcord](https://docs.nextcord.dev/en/stable/).
+Voici un template de bot discord. Le bot a été réalisé en utilisant node.js et discord.js. Bot en V14.
 
 ## 🚧 Prérequis
 
-Aucun
+- [Node.js](https://nodejs.org/en/download/)
+- [discord.js](https://discord.js.org/)
 
 ## 📝 Commande disponible 
 
-/ping
+- /ping
+
 
 ## 📝 [Serveur Support](https://discord.gg/zr7yJs6nxF)
 
